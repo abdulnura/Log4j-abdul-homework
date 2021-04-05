@@ -1,0 +1,4 @@
+23:25:16.913 [main] FATAL pkg.Main - Twinkle, twinkle, little star,
+23:25:16.918 [main] ERROR pkg.Main - How I wonder what you are
+23:25:16.920 [main] WARN  pkg.Main - Up above the world so high,
+23:25:16.931 [main] ERROR pkg.Main - It was beautiful
